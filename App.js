@@ -58,7 +58,7 @@ const App = () => {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.headingText}>Welcome !</Text>
+      <Text style={styles.headingText}>Welcomee !</Text>
       <View style={styles.searchBar}>
         <TextInput
           style={styles.input}
